@@ -1,2 +1,4 @@
-# Numerical-Analysis
-Problems for my numerical analysis class
+## Численные методы
+Реализация численных методов на языках C/C++
+
+#
